@@ -1,0 +1,9 @@
+1. Identifiers
+- sending mail: email address
+- criminal investigation: photo id
+- telephones: country code + number
+- employees: employee ID
+
+2. ipad & phone: serial number
+
+ 
