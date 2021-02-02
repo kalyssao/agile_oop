@@ -1,0 +1,11 @@
+
+1. objects
+- clock: time, setTime(), getTime()
+- ipad: battery level, data, time,
+
+2. temperature, time
+
+5. wallet/purse
+attributes -> amount held, material
+methods -> isEmpty(), addAmount(), subtractAmount()
+
